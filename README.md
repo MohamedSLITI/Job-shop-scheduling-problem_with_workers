@@ -1,1 +1,1 @@
-# Job-shop-scheduling-problem_with_workers
+# Job-shop-scheduling-problem-with-workers
